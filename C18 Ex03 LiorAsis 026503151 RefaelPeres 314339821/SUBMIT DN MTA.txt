@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 03
+First Student Details.: - Lior Asis
+Second Student Details: - Refael Peres
+Delivery Date.........: 31/08/2018
+Delivered In Delay....: Yes (2 day)
+Delay Reason..........: Needed more time.
+Visual Studio Version.: 2017
+Comments..............: None
+=======================End Exercise Checking Report=========================

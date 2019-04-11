@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.GarageLogic", "Ex03.GarageLogic\Ex03.GarageLogic.csproj", "{512B6DE2-1E41-4C0A-ADF6-2B5DE7BE6015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03.ConsoleUI", "Ex03.ConsoleUI\Ex03.ConsoleUI.csproj", "{1C39FD1C-28DA-4A9F-A15E-5B99A43D8AAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{864215B7-0870-41A2-B622-AF9EFD41731D}"
+	ProjectSection(SolutionItems) = preProject
+		GarageManagmentSystem.docx = GarageManagmentSystem.docx
+		SUBMIT DN MTA.txt = SUBMIT DN MTA.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{512B6DE2-1E41-4C0A-ADF6-2B5DE7BE6015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512B6DE2-1E41-4C0A-ADF6-2B5DE7BE6015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512B6DE2-1E41-4C0A-ADF6-2B5DE7BE6015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512B6DE2-1E41-4C0A-ADF6-2B5DE7BE6015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C39FD1C-28DA-4A9F-A15E-5B99A43D8AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C39FD1C-28DA-4A9F-A15E-5B99A43D8AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C39FD1C-28DA-4A9F-A15E-5B99A43D8AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C39FD1C-28DA-4A9F-A15E-5B99A43D8AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13A024BF-E2BF-48E7-B334-C004BADC1B4A}
+	EndGlobalSection
+EndGlobal
