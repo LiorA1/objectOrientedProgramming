@@ -1,0 +1,10 @@
+C:\Users\LiorAsis\Desktop\C# projects\C18 Ex02 LiorAsis 026503151 RefaelPeres 314339821\Ex02.ConsoleUI\bin\Debug\Ex02.ConsoleUI.exe
+C:\Users\LiorAsis\Desktop\C# projects\C18 Ex02 LiorAsis 026503151 RefaelPeres 314339821\Ex02.ConsoleUI\bin\Debug\Ex02.ConsoleUI.pdb
+C:\Users\LiorAsis\Desktop\C# projects\C18 Ex02 LiorAsis 026503151 RefaelPeres 314339821\Ex02.ConsoleUI\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\LiorAsis\Desktop\C# projects\C18 Ex02 LiorAsis 026503151 RefaelPeres 314339821\Ex02.ConsoleUI\bin\Debug\Ex02.Logic.dll
+C:\Users\LiorAsis\Desktop\C# projects\C18 Ex02 LiorAsis 026503151 RefaelPeres 314339821\Ex02.ConsoleUI\bin\Debug\Ex02.Logic.pdb
+C:\Users\LiorAsis\Desktop\C# projects\C18 Ex02 LiorAsis 026503151 RefaelPeres 314339821\Ex02.ConsoleUI\obj\Debug\Ex02.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\LiorAsis\Desktop\C# projects\C18 Ex02 LiorAsis 026503151 RefaelPeres 314339821\Ex02.ConsoleUI\obj\Debug\Ex02.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\LiorAsis\Desktop\C# projects\C18 Ex02 LiorAsis 026503151 RefaelPeres 314339821\Ex02.ConsoleUI\obj\Debug\Ex02.ConsoleUI.csproj.CopyComplete
+C:\Users\LiorAsis\Desktop\C# projects\C18 Ex02 LiorAsis 026503151 RefaelPeres 314339821\Ex02.ConsoleUI\obj\Debug\Ex02.ConsoleUI.exe
+C:\Users\LiorAsis\Desktop\C# projects\C18 Ex02 LiorAsis 026503151 RefaelPeres 314339821\Ex02.ConsoleUI\obj\Debug\Ex02.ConsoleUI.pdb

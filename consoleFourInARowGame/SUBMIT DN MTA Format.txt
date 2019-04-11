@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 02
+First Student Details.: - Lior Asis
+Second Student Details: - Refael Peres
+Delivery Date.........: 21/08/2018
+Delivered In Delay....: Yes (1 day)
+Delay Reason..........: AI implementation.
+Visual Studio Version.: 2017
+Comments..............: None
+=======================End Exercise Checking Report=========================
