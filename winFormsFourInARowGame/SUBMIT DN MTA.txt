@@ -1,0 +1,14 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 05
+First Student Details.:  - Lior Asis
+Second Student Details:  - Refael Peres
+Delivery Date.........: 17/09/2018
+Delivered In Delay....: No
+Delay Reason..........: -
+Visual Studio Version.: 2017
+Comments..............: Please note the next Comments:
+1.The Messages boxes are implemented a bit different.
+2.Players name in the text boxes are lack the ':' sign.
+3.Computer name in the winning message box are with ':' sign.
+4.We implemented the two bounus (events in logic,Movment)
+=======================End Exercise Checking Report=========================
